@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @karthhiik
-- 👀 I’m interested in ... Full stack development and Gen AI.
-- 🌱 I’m currently learning ...Full Stack development with AWS.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...Mail me on karthikthatikonda18@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hey, I'm Karthik 👋
 
-<!---
-karthhiik/karthhiik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I build AI products. Currently working on **Barise** — an AI ecosystem 
+for founders with business planning, GTM strategy, 
+pitch decks, founder-investor matchmaking, and a real-time research agent. 
+
+## What I'm working on
+- 🚀 [Barise](https://ai.barise.in) — AI growth platform for founders
+
+## Stack
+Java · Spring Boot · React · TypeScript · Node.js · GCP · 
+Docker · Kubernetes · Redis · PostgreSQL · MongoDB · LLMs
+
+## reach me
+📧 tkondakarthik0318@gmail.com
+🌐 ai.barise.in
